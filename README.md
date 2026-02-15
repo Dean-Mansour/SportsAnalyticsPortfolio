@@ -7,7 +7,7 @@ Goal: build practical decision tools and modeling foundations for front office a
 
 ## Projects
 
-### 1) 4th Down Decision Helper
+### 4th Down Decision Helper
 **What it does:** Recommends Go For It / Field Goal / Punt based on situation inputs (yards-to-go, field position, score, time).  
 **Skills used:** Python fundamentals, input/output, control flow (`if/elif/else`), boolean logic  
 **How to run:**
