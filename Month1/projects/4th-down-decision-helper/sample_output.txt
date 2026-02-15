@@ -1,0 +1,13 @@
+NFL 4th Down Decision Maker: 
+How many yards to go? 4
+What yard line? 57
+What is the score difference? 3
+What quarter is it? 4
+How many minutes are left? 8
+
+--- Situation Summary ---
+4th & 4 at the 57 yard line
+Score Difference4: 3 pts | Q4 8:00
+
+Recommedation: Punt
+Reason: Long yardage situation in own territory
