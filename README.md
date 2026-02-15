@@ -1,6 +1,6 @@
 # SportsAnalyticsPortfolio
 
-NFL-focused Python projects + learning portfolio.  
+Sports-focused Python projects + learning portfolio.  
 Goal: build practical decision tools and modeling foundations for front office analytics.
 
 ---
